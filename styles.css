@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f6f6f6;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+  color: #008080;
+}
+
+.search-box {
+  padding: 12px;
+  width: 100%;
+  max-width: 300px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  background-color: #eaeaea;
+  color: #333;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+main {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.location {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.city {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #008080;
+}
+
+.date {
+  font-size: 18px;
+  color: #666;
+}
+
+.current {
+  text-align: center;
+}
+
+.temp {
+  font-size: 96px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #008080;
+}
+
+.weather {
+  font-size: 28px;
+  font-style: italic;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.hi-low {
+  font-size: 20px;
+  color: #666;
+}
+
+.search-box {
+  margin-top: 20px;
+}
